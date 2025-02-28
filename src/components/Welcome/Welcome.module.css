@@ -1,0 +1,42 @@
+.mainWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  height: 91.15dvh;
+  background-image: url("../../../public/images/bg-img-main.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 1.2;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+.about {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33333;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+.catalogBtn {
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  width: 276px;
+  height: 44px;
+  background-color: #3470ff;
+  font-weight: 600;
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 60px;
+}

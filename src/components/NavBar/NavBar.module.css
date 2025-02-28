@@ -1,3 +1,30 @@
 .active {
-  color: red;
+  color: #0b44cd;
+}
+
+.navBar {
+  height: 68px;
+  padding: 0 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f2f4f7;
+}
+
+.item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.logo {
+}
+
+.logoSpan {
+}
+
+.links {
+  display: flex;
+  gap: 32px;
 }
